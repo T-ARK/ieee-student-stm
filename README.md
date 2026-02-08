@@ -20,6 +20,9 @@ The site showcases the branch, its activities, team, events, and membership info
 - Contact
 
 ---
+## Current bugs 🐛
+- Hamburger menu will not supported in mobile phone 
+---
 
 ## Technologies Used
 - HTML
